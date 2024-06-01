@@ -6,11 +6,6 @@
     "bin": [
         "easy-service-1.0.11/bin/svc.exe"
     ],
-    "shortcuts": [
-        [
-            "easy-service-1.0.11/bin/svc.exe",
-            "Svc"
-        ]
-    ]
+
 
 }
