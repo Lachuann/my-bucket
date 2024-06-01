@@ -8,7 +8,7 @@
     ],
     "shortcuts": [
         [
-            "svc.exe",
+            "easy-service-1.0.11/bin/svc.exe",
             "svc"
         ]
     ]
