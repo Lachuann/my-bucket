@@ -1,5 +1,5 @@
 {
-    "version": "24.06",
+    "version": "1.0.11",
     "description": "如果你的 Windows 程序需要在后台长期运行，而且你希望它在开机后用户登录之前就自动运行、且在用户注销之后也不停止，那么你需要将程序注册为一个系统服务。",
     "homepage": "https://github.com/pandolia/easy-service",
     "url": "https://get.66a.vip/https://github.com/pandolia/easy-service/archive/refs/tags/v1.0.11.zip",
